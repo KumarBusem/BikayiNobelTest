@@ -1,0 +1,4 @@
+
+rootProject.name = "Nobel"
+include ':app'
+include ':data'
